@@ -7,7 +7,7 @@ By Snoop
 * [Other resources](#other-resources)
 * [Getting ready for Hateful](#getting-ready-for-hateful)
 * [General mechanics](#general-mechanics)
-  * [Ones on the boss](#ones-on-boss)
+  * [Ones on the boss](#ones-on-the-boss)
   * [Ones you need to worry about](#ones-you-need-to-worry-about)
   *   [Prepping the room](#prepping-the-room)
 * [The fight](#the-fight)
