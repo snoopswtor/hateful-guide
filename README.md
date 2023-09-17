@@ -28,11 +28,26 @@ While farming masks, it's also recommended to do 3-stack dreadtooths. At 3 stack
 
 ### Ones on the boss
 
-The boss works by starting with 8 stacks of *Ancient Slumber* and 0 stacks of *Ancient Wrath*. On spawn, he does a cast called *Hateful Awakening*, which reduces his ancient slumber stacks and increase his ancient wrath stacks. Ancient slumber gives the boss 10% DR per stack, while ancient wrath makes the boss take 5% extra damage. So, in theory, by the 6th cast (2 slumber, 6 wrath) the DPS should start dealing more than normal damage. He maxes out at 15 stacks; if he finishes his cast for his 16th stack, the boss kills everyone and does his hard enrage. 
+The boss works by starting with 8 stacks of *Ancient Slumber* and 0 stacks of *Ancient Wrath*. On spawn, he does a cast called *Hateful Awakening*, which reduces his ancient slumber stacks and increase his ancient wrath stacks. Ancient slumber gives the boss 10% DR per stack, while ancient wrath makes the boss take 5% extra damage (and deal 5% more damage). So, in theory, by the 6th cast (2 slumber, 6 wrath) the DPS should start dealing more than normal damage. He maxes out at 15 stacks; if he finishes his cast for his 16th stack, the boss kills everyone and does his hard enrage. 
 
 ### Ones you need to worry about
+* **Death Mark**: Roughly every 60s, starting at around 30s after the boss spawns.
+* **Dread Touch**: The reason you need a mask and for rebounders; a knockback that will hit you and apply a debuff. If you don't have a mask when you are hit with this, you will instantly die. The debuff lasts 2:40, and while you have it, you cannot get dread touched. Rebounders help mitigate damage from dread touch.
+* **Grapple**: An ability that goes out every 20s or so (it can be delayed for higher priority abilities, such as Hateful Awakening). Grapples the group to the entity's location. If you have gravity immunity (e.g. through hold the line) it will not affect you
+* **Hate Pulse**: Massive raidwide AOE that happens every 15s or so.
+* **Hateful Void**: big red puddles that you want to try avoid standing in or getting knocked into (e.g. via dread touch). Sometimes you may get grappled into a void, in which case you want to pop some DCD and get out as soon as you can.
+* **Death Marks**: 8 death marks go out after the cast in progresive order (i.e. you don't get it as soon as the cast finishes). Typically, the powertechs (or anyone without cleanse) is guaranteed to get it, followed by people like maras/juggs/sins, then people who have a faster cleanse. Tanks should not get death marks unless people are dead. They work the same way as they do in Dread Council.
 
-### Starting the fight
+### Prepping the room
+First, assign each healer to get a powertech's cleanse, and establish a rebounder order. This is usually done in order of the frame every 15 seconds, so first will rebounder on x:00, next will rebounder on x:15, and so on.
+
+In the actual room, you will kill every group of trash until you get to the stairs leading up to where he spawns. There should be 5 adds; get them all down to 50%, and then single target/basic attack them until they get down to sub 20%. Once they're all sub 20, the entity should consume them and spawn something in its place. **Note the adds need to die inside the room**. To summon, you click on the entity (it's friendly!) and click on the orb. Be careful of any sorcs who may be bubbling people
+
+If you mess up that trash pack, you get the one right before the sarlacc pit (not the ones on the diving board, but the animals and such still), bring them to the room and do the same thing. You can clear the trash around the sarlacc pit if you feel like it.
+
+### Summoning and the initial stages of the fights
+
+
 
 ## Tanking
 
