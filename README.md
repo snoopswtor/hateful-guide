@@ -12,10 +12,10 @@ By Snoop
   *   [Prepping the room](#prepping-the-room)
 * [The fight](#the-fight)
   *   [Summoning and the initial stages of the fight](#summoning-and-the-initial-stages-of-the-fight)
-  *   [First tunnel and going back into the room](#first-tunnel-and-going-back-into-room)
+  *   [First tunnel and going back into the room](#first-tunnel-and-going-back-into-the-room)
   *   [Second tunnel](#second-tunnel)
   *   [Final stage](#final-stage)
-* General notes
+* [General notes](#general-notes)
   *   [Tank](#tank)
   *   [DPS](#dps)
   *   [Heals](#heals)
@@ -70,7 +70,7 @@ In the actual room, you will kill every group of trash until you get to the stai
 If you mess up that trash pack, you get the one right before the sarlacc pit (not the ones on the diving board, but the animals and such still), bring them to the room and do the same thing. You can clear the trash around the sarlacc pit if you feel like it.
 
 ## The Fight
-### Summoning and the initial stages of the fights
+### Summoning and the initial stages of the fight
 
 As mentioned earlier, to summon the boss, the person with the orb clicks on the "Hateful Presence" and then uses the orb. The presence will become angry **(but is not the actual boss)**, and start hurting the person who summoned, so make sure to heal them. Two notes here: if you use the orb on someone else, the orb will go on cooldown. If you use the orb and you die, the orb goes on cooldown. During this portion, you can get stacks (e.g. build annihilate stacks). After 15 seconds of "Consuming Hatred," there will be a period of 10 seconds without anything before the boss actually spawns. During this time, you can also do whatever is needed (e.g. build supercharge stacks)
 
