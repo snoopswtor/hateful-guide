@@ -2,6 +2,25 @@
 By Snoop
 *last updated in 7.3.1*
 
+## Table of Contents
+* [Introduction](#introduction)
+* [Other resources](#other-resources)
+* [Getting ready for Hateful](#getting-ready-for-hateful)
+* [General mechanics](#general-mechanics)
+  * [Ones on the boss](#ones-on-boss)
+  * [Ones you need to worry about](#ones-you-need-to-worry-about)
+  *   [Prepping the room](#prepping-the-room)
+* [The fight](#the-fight)
+  *   [Summoning and the initial stages of the fight](#summoning-and-the-initial-stages-of-the-fight)
+  *   [First tunnel and going back into the room](#first-tunnel-and-going-back-into-room)
+  *   [Second tunnel](#second-tunnel)
+  *   [Final stage](#final-stage)
+* General notes
+  *   [Tank](#tank)
+  *   [DPS](#dps)
+  *   [Heals](#heals)
+* [Useful Timers](#useful-timers)
+
 ## Introduction
 Hi everyone! I go by Snoop, and this is a Hateful guide I'm writing to help people who are interested in either creating a group for Hateful or are progging it. For me, I've helped a few Hateful groups get their kills, as well as led a few of my own. However, I am by no means an expert on this boss, which is why I put this on GitHub; if you think there are any errors or anything I'm missing, feel free to fork this repository, make any changes you want, and then create a pull request. If you do, please tell me on Discord so I can merge them! My username is `.snoop.`
 
